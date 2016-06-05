@@ -1,0 +1,54 @@
+	body{
+		background-color: skyblue;
+		color: red;	
+		border:5px;
+		line-height:100px;
+	}
+	h1{
+		font-size:50px;
+		font-weight:lighter;
+		font-family: 'Diplomata SC', cursive;
+		text-align:center;
+		color:darkblue;
+	}
+	
+	h3{
+		background-color: black;
+		color: white;
+		font-family: 'Amatic SC', cursive;
+		text-align:center;
+	}
+
+	a{
+		position:center;
+		font-family: 'Lora', cursive;
+		font-size:30px;
+	}
+
+
+	.not:hover{
+		font-size:50px;
+		color:orange;
+	}
+
+	.whatever:hover{
+		color:white;
+
+	}
+
+	.the:hover{
+		color:red;
+		font-family:'Lora', arial;
+	}
+
+	.btn{
+		float:right;
+		font-size:30px;
+		color:blue;
+	}
+
+    img{
+		position:absolute;
+		right:20px;
+		top:20px;
+	}
